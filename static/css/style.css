@@ -1,0 +1,11 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: initial;
+    color: #d4d1d1;
+}
+
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
